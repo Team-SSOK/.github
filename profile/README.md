@@ -32,7 +32,7 @@
 |------------|------|------------|------|
 | SSOK-Deploy | SSOK & SSOM CI/CD | K8s, Jenkins, ArgoCD | [🔗 바로가기](https://github.com/Team-SSOK/ssok-deploy) |
 
-> 더 많은 프로젝트는 [Repositories 탭](https://github.com/Team-SSOK?tab=repositories)에서 확인하세요!
+> 더 많은 프로젝트는 [Repositories 탭](https://github.com/orgs/Team-SSOK/repositories)에서 확인하세요!
 
 ---
 
