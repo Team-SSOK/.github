@@ -40,21 +40,20 @@
 
 | 이름 | 역할 | GitHub |
 |------|------|--------|
-| Donghyeok | Backend / Infra / DevOps | [@donghyeokk](https://github.com/dhku) |
-| Heesun | Backend | [@heesun](https://github.com/xecond) |
-| Dohoon | Backend | [@dohoon](https://github.com/isasgp) |
-| Jaehong | Frontend | [@jaehong](https://github.com/qkrwoghd04) |
-| Hanjin | Backend | [@hanjin](https://github.com/hanzyn09) |
-| Yoonsu | Backend | [@yoonsu](https://github.com/yunsu1231231) |
-| Jihun | Backend | [@jihun](https://github.com/cjh-19) |
-| Minyeong | Backend / DevOps | [@minyeong](https://github.com/95hyun) |
+| Donghyeok | Backend / Infra / DevOps | [@dhku](https://github.com/dhku) |
+| Heesun | Backend | [@xecond](https://github.com/xecond) |
+| Dohoon | Backend | [@isasgp](https://github.com/isasgp) |
+| Jaehong | Frontend | [@qkrwoghd04](https://github.com/qkrwoghd04) |
+| Hanjin | Backend | [@hanzyn09](https://github.com/hanzyn09) |
+| Yoonsu | Backend | [@yunsu1231231](https://github.com/yunsu1231231) |
+| Jihun | Backend | [@cjh-19](https://github.com/cjh-19) |
+| Minyeong | Backend / DevOps | [@95hyun](https://github.com/95hyun) |
 
 ---
 
 ## 🤝 Contact & Collaboration
 
 - 💌 협업 제안 / 문의 : 팀장 Jaehong [@jaehong](https://github.com/qkrwoghd04)
-- 📢 향후 팀 블로그 : _(준비 중)_
 - 🙌 기여는 언제나 환영합니다!
 
 ---
