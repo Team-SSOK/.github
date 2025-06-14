@@ -40,7 +40,7 @@
 
 | 이름 | 역할 | GitHub |
 |------|------|--------|
-| Donghyuck | Backend / Infra / DevOps | [@donghyuck](https://github.com/dhku) |
+| Donghyeok | Backend / Infra / DevOps | [@donghyeokk](https://github.com/dhku) |
 | Heesun | Backend | [@heesun](https://github.com/xecond) |
 | Dohoon | Backend | [@dohoon](https://github.com/isasgp) |
 | Jaehong | Frontend | [@jaehong](https://github.com/qkrwoghd04) |
