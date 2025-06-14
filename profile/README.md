@@ -26,7 +26,7 @@
 | SSOK-Openbanking | SSOK 대외 기관 금융결제원 OPEN-BANKING | Spring Boot | [🔗 바로가기](https://github.com/Team-SSOK/ssok-openbanking) |
 | SSOK-Bank | SSOK 서비스 앱 계정계 | Spring Boot | [🔗 바로가기](https://github.com/Team-SSOK/ssok-bank) |
 |------------|------|------------|------|
-| SSOM | SSOK 서비스 관제 모니터링 시스템 | Spring Boot, React Native, K8s, Prometheus, Grafana, Opensearch, LangChain, Slack API, OpenAI | [🔗 바로가기](https://github.com/Team-SSOK/AI-Incident-Responder) |
+| SSOM | SSOK 서비스 관제 모니터링 시스템 | Spring Boot, React Native, K8s, Prometheus, Grafana, Opensearch, LangChain, Slack API, OpenAI |  |
 | SSOM-Frontend | SSOM 앱 프론트엔드 | React Native | [🔗 바로가기](https://github.com/Team-SSOK/ssom-frontend) |
 | SSOM-Backend | SSOM 앱 백엔드 | Spring Boot | [🔗 바로가기](https://github.com/Team-SSOK/ssom-backend) |
 |------------|------|------------|------|
