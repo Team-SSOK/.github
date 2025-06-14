@@ -22,13 +22,13 @@
 |------------|------|------------|------|
 | SSOK | 블루투스 송금 기능을 탑재한 금융 송금 서비스 시스템 | Spring Boot, React Native, K8s, Prometheus, Grafana, Opensearch |  |
 | SSOK-Frontend | SSOK 서비스 앱 프론트엔드 | React Native | [🔗 바로가기](https://github.com/Team-SSOK/ssok-frontend) |
-| SSOK-Backend | SSOK 서비스 앱 채널계| Spring Boot, K8s, Prometheus | [🔗 바로가기](https://github.com/Team-SSOK/ssok-backend) |
+| SSOK-Backend | SSOK 서비스 앱 채널계| Spring Boot, MSA, Kafka, K8s, Prometheus | [🔗 바로가기](https://github.com/Team-SSOK/ssok-backend) |
 | SSOK-Openbanking | SSOK 대외 기관 금융결제원 OPEN-BANKING | Spring Boot | [🔗 바로가기](https://github.com/Team-SSOK/ssok-openbanking) |
 | SSOK-Bank | SSOK 서비스 앱 계정계 | Spring Boot | [🔗 바로가기](https://github.com/Team-SSOK/ssok-bank) |
 |------------|------|------------|------|
-| SSOM | SSOK 서비스 관제 모니터링 시스템 | Spring Boot, React Native, K8s, Prometheus, Grafana, Opensearch, LangChain, Slack API, OpenAI |  |
+| SSOM | SSOK 서비스 관제 모니터링 시스템 | Spring Boot, React Native, K8S, Prometheus, Grafana, Opensearch, LangChain, Slack API, OpenAI |  |
 | SSOM-Frontend | SSOM 앱 프론트엔드 | React Native | [🔗 바로가기](https://github.com/Team-SSOK/ssom-frontend) |
-| SSOM-Backend | SSOM 앱 백엔드 | Spring Boot | [🔗 바로가기](https://github.com/Team-SSOK/ssom-backend) |
+| SSOM-Backend | SSOM 앱 백엔드 | Spring Boot, Kafka | [🔗 바로가기](https://github.com/Team-SSOK/ssom-backend) |
 |------------|------|------------|------|
 | SSOK-Deploy | SSOK & SSOM CI/CD | K8s, Jenkins, ArgoCD | [🔗 바로가기](https://github.com/Team-SSOK/ssok-deploy) |
 
