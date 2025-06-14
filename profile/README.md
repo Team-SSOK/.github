@@ -40,14 +40,14 @@
 
 | 이름 | 역할 | GitHub |
 |------|------|--------|
-| Donghyeok | Backend / Infra / DevOps | [@dhku](https://github.com/dhku) |
-| Heesun | Backend | [@xecond](https://github.com/xecond) |
-| Dohoon | Backend | [@isasgp](https://github.com/isasgp) |
+| Donghyeok | Backend (core-banking) / Infra / DevOps | [@dhku](https://github.com/dhku) |
+| Heesun | Backend (openbanking) | [@xecond](https://github.com/xecond) |
+| Dohoon | Backend (channel) | [@isasgp](https://github.com/isasgp) |
 | Jaehong | Frontend | [@qkrwoghd04](https://github.com/qkrwoghd04) |
-| Hanjin | Backend | [@hanzyn09](https://github.com/hanzyn09) |
-| Yoonsu | Backend | [@yunsu1231231](https://github.com/yunsu1231231) |
-| Jihun | Backend | [@cjh-19](https://github.com/cjh-19) |
-| Minyeong | Backend / DevOps | [@95hyun](https://github.com/95hyun) |
+| Hanjin | Backend (core-banking) | [@hanzyn09](https://github.com/hanzyn09) |
+| Yoonsu | Backend (openbanking) | [@yunsu1231231](https://github.com/yunsu1231231) |
+| Jihun | Backend (channel) | [@cjh-19](https://github.com/cjh-19) |
+| Minyeong | Backend (channel) / DevOps | [@95hyun](https://github.com/95hyun) |
 
 ---
 
