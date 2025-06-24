@@ -46,7 +46,7 @@
 | Jaehong | Frontend | [@qkrwoghd04](https://github.com/qkrwoghd04) |
 | Hanjin | Backend (core-banking) | [@hanzyn09](https://github.com/hanzyn09) |
 | Yoonsu | Backend (openbanking) | [@yunsu1231231](https://github.com/yunsu1231231) |
-| Jihun | Backend (channel) | [@cjh-19](https://github.com/cjh-19) |
+| Jihoon | Backend (channel) | [@cjh-19](https://github.com/cjh-19) |
 | Minyeong | Backend (channel) / DevOps | [@95hyun](https://github.com/95hyun) |
 
 ---
