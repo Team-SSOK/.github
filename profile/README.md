@@ -26,11 +26,14 @@
 | [SSOK-Openbanking](https://github.com/Team-SSOK/ssok-openbanking) | SSOK 대외 기관 금융결제원 OPEN-BANKING | Spring Boot |
 | [SSOK-Bank](https://github.com/Team-SSOK/ssok-bank) | SSOK 서비스 앱 계정계 | Spring Boot, Kafka, Fluent Bit |
 |------------|------|------------|------|
-| SSOM | SSOK 서비스 관제 모니터링 시스템 | Spring Boot, React Native, FastAPI, K8S, Prometheus, Grafana, Opensearch, Fluentd LangChain, Slack API, OpenAI API |
+| SSOM | 금융 시스템 관제 APP | Spring Boot, React Native, FastAPI, K8S, Opensearch, LangChain, Slack API, OpenAI API |
 | [SSOM-Frontend](https://github.com/Team-SSOK/ssom-frontend) | SSOM 앱 프론트엔드 | React Native |
-| [SSOM-Backend](https://github.com/Team-SSOK/ssom-backend) | SSOM 앱 백엔드 | Spring Boot, Kafka |
+| [SSOM-Backend](https://github.com/Team-SSOK/ssom-backend) | SSOM 앱 백엔드 | Spring Boot, OpenSearch, Kafka |
+| [SSOM-LLM](https://github.com/Team-SSOK/ssom-llm) | SSOM 앱 LLM 서버 | FastAPI, LangChain, OpenAI API |
 |------------|------|------------|------|
-| [SSOK-Deploy](https://github.com/Team-SSOK/ssok-deploy) | SSOK & SSOM CI/CD | K8s, Jenkins, ArgoCD |
+| SSOK & SSOM DevOps | CI/CD, Monitoring 시스템 | Jenkins, ArgoCD, K8S, Helm, Kafka, Node Exporter, Prometheus, Grafana, Opensearch, Fluentbit, Fluentd |
+| [SSOK-Deploy](https://github.com/Team-SSOK/ssok-deploy) | SSOK & SSOM CI/CD | Jenkins, ArgoCD, K8S, Helm, Kafka |
+| [SSOM-Monitoring](https://github.com/Team-SSOK/ssok-monitoring) | SSOK 모니터링 시스템 | Node Exporter, Prometheus, Grafana, Opensearch, Fluentbit, Fluentd |
 
 > 더 많은 프로젝트는 [Repositories 탭](https://github.com/orgs/Team-SSOK/repositories)에서 확인하세요!
 
