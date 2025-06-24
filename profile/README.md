@@ -31,7 +31,7 @@
 | [SSOM-Backend](https://github.com/Team-SSOK/ssom-backend) | SSOM 앱 백엔드 | Spring Boot, OpenSearch, Kafka |
 | [SSOM-LLM](https://github.com/Team-SSOK/ssom-llm) | SSOM 앱 LLM 서버 | FastAPI, LangChain, OpenAI API |
 |------------|------|------------|------|
-| SSOK & SSOM DevOps | CI/CD, Monitoring 시스템 | Jenkins, ArgoCD, K8S, Helm, Kafka, Node Exporter, Prometheus, Grafana, Opensearch, Fluentbit, Fluentd |
+| DevOps | CI/CD, Monitoring 시스템 | Jenkins, ArgoCD, K8S, Helm, Kafka, Node Exporter, Prometheus, Grafana, Opensearch, Fluentbit, Fluentd |
 | [SSOK-Deploy](https://github.com/Team-SSOK/ssok-deploy) | SSOK & SSOM CI/CD | Jenkins, ArgoCD, K8S, Helm, Kafka |
 | [SSOM-Monitoring](https://github.com/Team-SSOK/ssok-monitoring) | SSOK 모니터링 시스템 | Node Exporter, Prometheus, Grafana, Opensearch, Fluentbit, Fluentd |
 
